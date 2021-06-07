@@ -1,16 +1,15 @@
-### Hi there 👋
+SHAPEAI PYTHON AND MACHINE LEARNING BOOTCAMP
+Hi I made this project during the 7 Days Free Bootcamp, conducted by SHAPEAI . The instructor during the session was Mr. Shaurya Sinha (Data Analyst Intern at Jio). I got to learn a lot during these 7 days and it was an amazing experience learning with SHAPEAI. 
 
-<!--
-**indhumalini/indhumalini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here's the link for you to watch the sessions as well
+ 
+I got to have hands on experience on:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python
+Machine Learning
+Tensorflow 
+during these 7 days, and everything was explained from the very basics so that anyone with zero experience on programming can learn. I enjoyed these 7 days, you can as well. To register for next free 7 days bootcamp, visit: www.shapeai.tech or follow SHAPEAI on:
+LinkedIn
+Instagram
+YouTu be
+GitHub
